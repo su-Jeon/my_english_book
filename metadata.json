@@ -1,0 +1,6 @@
+{
+  "name": "Which Way, Mina? - The Lost Soccer Ball",
+  "description": "A branching English picture-book app for elementary learners to master prepositions of place through reading, finding, and speaking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
